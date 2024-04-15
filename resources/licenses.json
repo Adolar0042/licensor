@@ -54,6 +54,12 @@
     ]
   },
   {
+    "id": "GLWT",
+    "replace": {
+      "name": "Author"
+    }
+  },
+  {
     "id": "GPL-2.0",
     "optional": [
       "GNU GENERAL PUBLIC LICENSE\n\nVersion 2, June 1991",

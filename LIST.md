@@ -12,6 +12,7 @@
 * CC0-1.0
 * CDDL-1.1
 * EPL-2.0
+* GLWT
 * GPL-2.0
 * GPL-3.0
 * ISC
